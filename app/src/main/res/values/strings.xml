@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Czas start!</string>
+    <string name="wybierz_data">Wybierz datę</string>
+    <string name="pisz_tutaj">Pisz tutaj</string>
+    <string name="opisz_swoj_trening">Opisz swój trening</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_uzyt">UzytActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="delete">delete</string>
+
+    <string name="ranklabel">"Rank : "</string>
+    <string name="countrylabel">"Country : "</string>
+    <string name="populationlabel">"Population : "</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>

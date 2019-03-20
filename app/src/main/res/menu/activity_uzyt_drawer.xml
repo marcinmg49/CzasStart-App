@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_tr"
+            android:icon="@drawable/ic_directions_run_black_24dp"
+            android:title="Trening" />
+        <item
+            android:id="@+id/nav_tt"
+            android:icon="@drawable/ic_place_black_24dp"
+            android:title="Historia treningów" />
+        <item
+            android:id="@+id/nav_dt"
+            android:icon="@drawable/ic_assignment_black_24dp"
+            android:title="Dziennik treningowy" />
+        <item
+            android:id="@+id/nav_ht"
+            android:icon="@drawable/ic_date_range_black_24dp"
+            android:title="Wpisy w dzienniku" />
+        <item
+            android:id="@+id/nav_zz"
+            android:icon="@drawable/ic_group_black_24dp"
+            android:title="Społeczność" />
+    </group>
+
+    <group>
+        <item
+        android:id="@+id/nav_logu"
+        android:icon="@drawable/ic_exit_to_app_black_24dp"
+        android:title="Wyloguj" />
+    </group>
+
+</menu>
